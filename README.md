@@ -4,10 +4,6 @@
 
 ---
 
-![EduVault Logo](./assets/eduvault-logo.png)
-
----
-
 ## 🌟 Introduction
 
 Welcome to *EduVault*! This README file provides essential information about our project, designed for a hackathon. EduVault is specifically curated for Class 12 students who are facing issues in their competitive exams.
@@ -38,12 +34,18 @@ Welcome to *EduVault*! This README file provides essential information about our
 
 ## 📸 Screenshots
 
+### ChatBot Feature
 ![ChatBot Feature](./screenshots/chatbot-feature.png)
 ChatBot for College Selection
 
-![Quiz Feature](./screenshots/quiz-feature.png)
+### Quiz Feature
+<div style="display: flex; justify-content: space-between;">
+  <img src="./screenshots/quiz-feature-1.png" alt="Quiz Feature 1" style="width: 48%;">
+  <img src="./screenshots/quiz-feature-2.png" alt="Quiz Feature 2" style="width: 48%;">
+</div>
 Quiz-Based College Suggestion
 
+### Information & Data
 ![Information Data](./screenshots/information-data.png)
 Information & Data
 
