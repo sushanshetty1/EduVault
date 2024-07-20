@@ -35,18 +35,18 @@ Welcome to *EduVault*! This README file provides essential information about our
 ## 📸 Screenshots
 
 ### ChatBot Feature
-![ChatBot Feature](./screenshots/chatbot-feature.png)
+![ChatBot Feature](ScreenShots/chatbot.jpg)
 ChatBot for College Selection
 
 ### Quiz Feature
 <div style="display: flex; justify-content: space-between;">
-  <img src="./screenshots/quiz-feature-1.png" alt="Quiz Feature 1" style="width: 48%;">
-  <img src="./screenshots/quiz-feature-2.png" alt="Quiz Feature 2" style="width: 48%;">
+  <img src="ScreenShots/quiz2.jpg" alt="Quiz Feature 1" style="width: 48%;">
+  <img src="ScreenShots/quiz1.jpg" alt="Quiz Feature 2" style="width: 48%;">
 </div>
 Quiz-Based College Suggestion
 
 ### Information & Data
-![Information Data](./screenshots/information-data.png)
+![Information Data](ScreenShots/info.jpg)
 Information & Data
 
 ---
@@ -55,8 +55,6 @@ Information & Data
 
 Thank you for exploring *EduVault*. We hope it proves to be a valuable resource for your exam preparation journey.
 
-For any inquiries or support, please contact us at [support@eduvault.com](mailto:support@eduvault.com).
-
 ---
 
-![Footer](./assets/footer.png)
+![Footer](ScreenShots/footer.jpg)
